@@ -11,7 +11,7 @@ Me chamo David Silva Telles da Cruz, tenho 16 anos, sou natural de Pompéia, Sã
 
   ### 📊 Estatisticas
   
- <div align="center"> 
+ <div align="left"> 
   <br/>
 <picture>
   <source 
