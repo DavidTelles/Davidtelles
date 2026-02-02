@@ -11,9 +11,9 @@ Me chamo David Silva Telles da Cruz, tenho 16 anos, sou natural de Pompéia, Sã
 
   ### 📊 Estatisticas
   
- <div align="left"> 
+ <div> 
   <br/>
-<picture>
+<picture align="left">
   <source 
     srcset="https://github-readme-stats-gamma-lilac.vercel.app//api?username=DavidTelles&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
     media="(prefers-color-scheme: dark)" include_all_commits=true/>
@@ -23,7 +23,7 @@ Me chamo David Silva Telles da Cruz, tenho 16 anos, sou natural de Pompéia, Sã
     alt="GitHub Stats" />
 </picture>
 
-<picture>
+<picture align="rigth">
   <source 
     srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=DavidTelles&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
     media="(prefers-color-scheme: dark)" />
